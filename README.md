@@ -1,5 +1,6 @@
 LUIS EVER CHAPARIN CLEMENTE
-
+Se realizo crud de CUIDADOR
+Agregado export de postman del crud CUIDADOR
 
 
 
